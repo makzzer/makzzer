@@ -2,7 +2,7 @@
 - 📍 I live in Buenos Aires
 - 👀 I’m interested in front and back end programming
 - 🌱 I’m currently learning React and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with moderns and skilled teams 
 - 📫 You can find my at makzofx@gmail.com
 
 <!---
